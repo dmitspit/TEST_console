@@ -7,6 +7,7 @@ namespace TEST_console
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Faeture branch");
         }
     }
 }
