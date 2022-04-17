@@ -10,6 +10,10 @@ namespace TEST_console
             Console.WriteLine("Faeture branch");
             
             Console.WriteLine("***********NEW FEATURE");
+
+
+            var test = "test2";
+            Console.WriteLine("test 2");
         }
     }
 }
