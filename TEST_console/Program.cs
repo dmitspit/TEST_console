@@ -16,6 +16,9 @@ namespace TEST_console
 
             var test = "test2";
             Console.WriteLine("test 2");
+
+            var test1 = "test2";
+            Console.WriteLine("test 2");
         }
     }
 }
