@@ -12,6 +12,10 @@ namespace TEST_console
             Console.WriteLine("Dima Branch");
             
             Console.WriteLine("***********NEW FEATURE");
+
+
+            var test = "test2";
+            Console.WriteLine("test 2");
         }
     }
 }
